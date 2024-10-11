@@ -1,4 +1,4 @@
-# 📊 Manipulando Colunas de um DataFrame com Pandas
+# 📊 Manipulando colunas de um DataFrame com Pandas
 
 Este repositório documenta como remover colunas desnecessárias de um DataFrame usando o Pandas em Python. Vamos abordar como otimizar um DataFrame ao remover informações irrelevantes para uma análise específica. 📊
 
